@@ -9,7 +9,7 @@
 <hr>
 
 <p align="center">
-  <img width="500" height="500" src="utilities/images/main_rat_1.png">
+  <img width="1000" height="500" src="utilities/images/main_rat_1.png">
 </p>
 
 Welcome to the Official Page of the documentation of the Rat Warz. This project serves to document the phenomena of the 
