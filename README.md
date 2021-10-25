@@ -35,4 +35,4 @@ Genesis
 After a 1 year of personal stories of the Rat Warz, I am deciding to write it down in history as part of Baltimore. Why 
 not maybe this data will prove useful one day in the future for any "Rat" scientist
 
-- Project Lead [Suliman sharif](http://sulstice.github.io/) Email: sharifsuliman1@gmail.com
+- Project Lead [Suliman sharif](http://sulstice.github.io/) 
